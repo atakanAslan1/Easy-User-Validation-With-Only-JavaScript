@@ -1,4 +1,4 @@
-# Easy-User-Validation-With-Only-JavaScript
+# Easy User Validation With Only JavaScript
 Easy user validation with JavaScript.<br/> <br/>
 **Rules** <br/>
 <hr/>

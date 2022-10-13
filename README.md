@@ -1,5 +1,5 @@
 # Easy-User-Validation-With-Only-JavaScript
-Easy user validation with JavaScript.
+Easy user validation with JavaScript.<br/>
 **Rules** <br/>
 
 

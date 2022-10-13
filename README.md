@@ -11,3 +11,5 @@ Easy user validation with JavaScript.<br/> <br/>
 2 - It must start with a letter. <br/>
 3- It can only contain letter, numbers and underscore character. <br/>
 4- It cannot and with an underscore character.
+
+<hr/>
